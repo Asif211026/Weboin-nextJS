@@ -93,5 +93,5 @@ inline in JSX, so content can change without touching layout code.
 
 ## Deployment
 
-Push this repo to GitHub, then import it on [Vercel](https://vercel.com/new) —
+Push this repo to GitHub, then import it on [Vercel](https://weboin-next-js.vercel.app/) —
 no configuration needed, it's a standard Next.js app.
